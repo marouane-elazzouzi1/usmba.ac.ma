@@ -415,7 +415,6 @@ usx.edu.cn
 meduca.edu.pa
 social.helwan.edu.eg
 alumni.uci.edu
-univ-dbkm.dz
 mail.rmutt.ac.th
 lsts.edu.vn
 ucass.edu.cn
@@ -688,3 +687,8 @@ bkc.edu.vn
 hungyen.itrithuc.vn
 ntpc.ufpa.br
 ics.ufpa.br
+chiba-c.ed.jp
+estudiante.usat.edu.pe
+mc-class.gr
+mtmcollege.in
+rsat.org.uk
